@@ -1,0 +1,10 @@
+qr-campus-app/
+│
+├── api/
+│   └── index.js        ← (your Express server code)
+│
+├── public/
+│   └── index.html
+│
+├── package.json
+└── vercel.json
